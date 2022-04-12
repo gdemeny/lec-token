@@ -1,0 +1,2 @@
+# lec-token
+LEC Token
